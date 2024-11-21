@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science,Artificial Intelligence
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on a project on Computer Science
-- 📫 How to reach me at Linkedin https://www.linkedin.com/in/akhil-pandey-294a612a4/
+- 📫 How to reach me at Linkedin [https://www.linkedin.com/in/akhil-pandey-294a612a4/](https://www.linkedin.com/in/akhilpandey9/)
 - 😄 Pronouns: He/Him
 
 <!---
