@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **akhilpandey494@gmail.com** For Collaboration/Project or A
 - 👯 **I’m looking to collaborate on:** Machine Learning
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** akhilpandey494@gmail.com
-- 😄 **Pronouns:** Akhil
+- 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 <!-- Snake Game Repo View -->
