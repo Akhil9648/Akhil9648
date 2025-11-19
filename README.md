@@ -46,5 +46,4 @@ Email Me 👉 ✉️ **akhilpandey494@gmail.com** For Collaboration/Project or A
 ![](https://github-contributor-stats.vercel.app/api?username=Akhil9648&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="akhilpande7" data-color="#FFDD00" data-emoji="☕"  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
