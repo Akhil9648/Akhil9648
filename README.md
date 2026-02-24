@@ -13,9 +13,11 @@ Email Me 👉 ✉️ **akhilpandey494@gmail.com** For Collaboration/Project or A
 
 <!-- Snake Game Repo View -->
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Akhil9648/Akhil9648/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Akhil9648/Akhil9648/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Akhil9648/Akhil9648/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/Akhil9648/Akhil9648/blob/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Akhil9648&theme=radical&no-frame=false&no-bg=false&margin-w=4)
