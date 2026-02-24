@@ -13,9 +13,9 @@ Email Me 👉 ✉️ **akhilpandey494@gmail.com** For Collaboration/Project or A
 
 <!-- Snake Game Repo View -->
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Akhil9648/Akhil9648/blob/output/github-contribution-grid-snake.svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Akhil9648&theme=radical&no-frame=false&no-bg=false&margin-w=4)
