@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **akhilpandey494@gmail.com** For Collaboration/Project or A
 
 - 🔭 **I’m currently working on:** A project
 - 🌱 **I’m currently learning:** Logic Building
-- 👯 **I’m looking to collaborate on:** Machine Learning
+- 👯 **I’m looking to collaborate on:** Machine Learning/Backend Development/Full Stack Development
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** akhilpandey494@gmail.com
 - 😄 **Pronouns:** He/Him
