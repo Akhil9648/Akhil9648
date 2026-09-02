@@ -5,7 +5,7 @@
 
 Email Me 👉 ✉️ **akhilpandey494@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** A project
+- 🔭 **I’m currently working on:** HealthVision
 - 🌱 **I’m currently learning:** Logic Building
 - 👯 **I’m looking to collaborate on:** Machine Learning/Backend Development/Full Stack Development
 - 💬 **Ask me about:** Collaboration, Tech Support
@@ -40,10 +40,16 @@ Email Me 👉 ✉️ **akhilpandey494@gmail.com** For Collaboration/Project or A
 ![Express.js](https://img.shields.io/badge/express.js-%23323330.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23323330.svg?style=for-the-badge&logo=mongodb&logoColor=%2347A248)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23323330.svg?style=for-the-badge&logo=postgresql&logoColor=%23336791)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil9648&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api?username=Akhil9648&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Akhil9648&theme=dark&hide_border=false)
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="./profile/stats.svg" alt="GitHub Stats" height="180"/>
+  <img src="./profile/top-langs.svg" alt="Top Languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhilpandey9/) 
