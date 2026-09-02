@@ -21,10 +21,6 @@ Email Me 👉 ✉️ **akhilpandey494@gmail.com** For Collaboration/Project or A
   <img alt="github contribution grid snake animation" src="https://github.com/Akhil9648/Akhil9648/blob/output/github-contribution-grid-snake.svg">
 </picture>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Akhil9648&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
