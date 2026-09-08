@@ -11,7 +11,6 @@ Email Me 👉 ✉️ **akhilpandey494@gmail.com** For Collaboration/Project or A
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** akhilpandey494@gmail.com
 - 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 <!-- Snake Game Repo View -->
 
